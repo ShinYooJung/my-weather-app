@@ -44,3 +44,11 @@
   padding-left: 0;
   list-style: none;
 }
+
+.cities{
+  text-align: left;
+  list-style: circle;
+  width: 1000px;
+  margin: 0 auto;
+  column-count: 4;
+}
